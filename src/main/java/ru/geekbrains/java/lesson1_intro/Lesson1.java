@@ -1,6 +1,6 @@
 package ru.geekbrains.java.lesson1_intro;
 
-public class HomeWorkApp {
+public class Lesson1 {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
